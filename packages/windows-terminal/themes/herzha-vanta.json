@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Vanta",
+    "background": "#0A0A0D",
+    "foreground": "#a9b1d6",
+    "cursorColor": "#A779F3",
+    "selectionBackground": "#3a2a55",
+    "black": "#0A0A0D",
+    "red": "#FB899E",
+    "green": "#85D0B7",
+    "yellow": "#F2C98B",
+    "blue": "#7DCFFF",
+    "purple": "#A779F3",
+    "cyan": "#03BDE5",
+    "white": "#a9b1d6",
+    "brightBlack": "#5e5e7b",
+    "brightRed": "#FF9FB1",
+    "brightGreen": "#95DFC6",
+    "brightYellow": "#F5D08A",
+    "brightBlue": "#87A1FF",
+    "brightPurple": "#BB9AF7",
+    "brightCyan": "#8BD5FF",
+    "brightWhite": "#eef0f7"
+}

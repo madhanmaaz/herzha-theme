@@ -1,0 +1,7 @@
+id = "herzha-theme"
+name = "Herzha Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Madhanmaaz <madhanmaaz@gmail.com>"]
+description = "Herzha theme for zed."
+repository = "https://github.com/madhanmaaz/herzha-theme.git"

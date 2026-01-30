@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Flux",
+    "background": "#0B0D14",
+    "foreground": "#B0B8E6",
+    "cursorColor": "#8F7CFF",
+    "selectionBackground": "#322b59",
+    "black": "#0B0D14",
+    "red": "#FF7A9A",
+    "green": "#6ED1A7",
+    "yellow": "#F3C677",
+    "blue": "#82CFFF",
+    "purple": "#8F7CFF",
+    "cyan": "#2EC4E6",
+    "white": "#B0B8E6",
+    "brightBlack": "#505e91",
+    "brightRed": "#FF96B0",
+    "brightGreen": "#86DFC0",
+    "brightYellow": "#F6D38F",
+    "brightBlue": "#7B96FF",
+    "brightPurple": "#A59BFF",
+    "brightCyan": "#97DAFF",
+    "brightWhite": "#fdfeff"
+}

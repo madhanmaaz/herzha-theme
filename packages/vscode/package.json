@@ -1,0 +1,52 @@
+{
+    "name": "vscode-herzha-theme",
+    "displayName": "Herzha Theme",
+    "description": "Herzha themes for vscode.",
+    "version": "0.0.1",
+    "publisher": "madhanmaaz",
+    "icon": "assets/logo.webp",
+    "scripts": {
+        "build": "vsce package"
+    },
+    "author": {
+        "name": "madhanmaaz",
+        "url": "https://madhanmaaz.netlify.app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/madhanmaaz/herzha-theme"
+    },
+    "keywords": [
+        "herzha theme",
+        "herzha themes",
+        "herzha dark theme",
+        "herzha dark themes",
+        "herzha light theme",
+        "herzha light themes"
+    ],
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Herzha Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-dark.json"
+            },
+            {
+                "label": "Herzha Flux",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-flux.json"
+            },
+            {
+                "label": "Herzha Vanta",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-vanta.json"
+            }
+        ]
+    }
+}

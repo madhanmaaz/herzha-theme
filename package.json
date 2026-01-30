@@ -1,0 +1,24 @@
+{
+    "name": "herzha-theme",
+    "version": "0.0.1",
+    "description": "Herzha theme - Dev environment",
+    "main": "core/index.js",
+    "scripts": {
+        "dev": "node . --dev",
+        "build": "node .",
+        "view": "node . --view",
+        "cleanup": "node . --cleanup",
+        "full": "nodemon --exec \"npm run build\" --ext .js -i .git packages"
+    },
+    "keywords": [],
+    "author": {
+        "name": "madhanmaaz",
+        "url": "https://madhanmaaz.netlify.app"
+    },
+    "license": "MIT",
+    "type": "commonjs",
+    "devDependencies": {
+        "chokidar": "^5.0.0",
+        "colord": "^2.9.3"
+    }
+}

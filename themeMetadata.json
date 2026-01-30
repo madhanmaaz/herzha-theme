@@ -1,0 +1,17 @@
+{
+    "herzha-dark": {
+        "name": "Herzha Dark",
+        "appearance": "dark",
+        "filename": "herzha-dark"
+    },
+    "herzha-flux": {
+        "name": "Herzha Flux",
+        "appearance": "dark",
+        "filename": "herzha-flux"
+    },
+    "herzha-vanta": {
+        "name": "Herzha Vanta",
+        "appearance": "dark",
+        "filename": "herzha-vanta"
+    }
+}

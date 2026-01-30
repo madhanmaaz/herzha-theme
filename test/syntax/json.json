@@ -1,0 +1,50 @@
+{
+    "app": {
+        "name": "UserManager",
+        "version": "1.0.0",
+        "status": "READY",
+        "features": {
+            "addUser": true,
+            "removeUser": true,
+            "editUser": true,
+            "roles": ["user", "admin", "moderator"]
+        }
+    },
+    "users": [
+        {
+            "id": 1,
+            "name": "Madhan",
+            "age": 25,
+            "roles": ["user", "admin"],
+            "isActive": true,
+            "lastLogin": null,
+            "metadata": {
+                "createdAt": "2026-01-29T10:00:00Z",
+                "tags": ["founder", "tester"]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Alice",
+            "age": 30,
+            "roles": ["user"],
+            "isActive": false,
+            "lastLogin": "2026-01-28T15:30:00Z",
+            "metadata": {
+                "createdAt": "2026-01-25T12:00:00Z",
+                "tags": []
+            }
+        }
+    ],
+    "settings": {
+        "theme": "light",
+        "notifications": {
+            "email": true,
+            "sms": false,
+            "push": true
+        },
+        "maxUsers": 100,
+        "featuresEnabled": ["addUser", "roles", "exportData"],
+        "misc": null
+    }
+}
