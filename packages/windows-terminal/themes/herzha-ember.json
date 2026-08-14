@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Ember",
+    "background": "#0E0B0A",
+    "foreground": "#E6DCD8",
+    "cursorColor": "#FF8F6B",
+    "selectionBackground": "#593225",
+    "black": "#0E0B0A",
+    "red": "#FF6B6B",
+    "green": "#A3C15A",
+    "yellow": "#F4C430",
+    "blue": "#D9A066",
+    "purple": "#FF8F6B",
+    "cyan": "#F2B705",
+    "white": "#E6DCD8",
+    "brightBlack": "#7f645b",
+    "brightRed": "#FF8F8F",
+    "brightGreen": "#BFDA84",
+    "brightYellow": "#FFD75E",
+    "brightBlue": "#F0856C",
+    "brightPurple": "#FFA88A",
+    "brightCyan": "#E8BB8C",
+    "brightWhite": "#ffffff"
+}

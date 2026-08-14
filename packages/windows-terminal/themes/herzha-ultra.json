@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Ultra",
+    "background": "#08030F",
+    "foreground": "#F5E9FF",
+    "cursorColor": "#9D4DFF",
+    "selectionBackground": "#371b59",
+    "black": "#08030F",
+    "red": "#FF3B6B",
+    "green": "#00F5A0",
+    "yellow": "#FFD600",
+    "blue": "#A970FF",
+    "purple": "#9D4DFF",
+    "cyan": "#DFFF00",
+    "white": "#F5E9FF",
+    "brightBlack": "#5e23b1",
+    "brightRed": "#FF7195",
+    "brightGreen": "#5CFFC0",
+    "brightYellow": "#FFE866",
+    "brightBlue": "#FF70C5",
+    "brightPurple": "#BE85FF",
+    "brightCyan": "#C49AFF",
+    "brightWhite": "#ffffff"
+}

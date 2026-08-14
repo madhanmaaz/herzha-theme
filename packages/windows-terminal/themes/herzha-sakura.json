@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Sakura",
+    "background": "#0D0A10",
+    "foreground": "#F4E9F8",
+    "cursorColor": "#FF79C6",
+    "selectionBackground": "#592a45",
+    "black": "#0D0A10",
+    "red": "#FF5555",
+    "green": "#7AF1C0",
+    "yellow": "#F1C27D",
+    "blue": "#8BE9FD",
+    "purple": "#FF79C6",
+    "cyan": "#FFB86C",
+    "white": "#F4E9F8",
+    "brightBlack": "#6e5587",
+    "brightRed": "#FF7777",
+    "brightGreen": "#96FFD4",
+    "brightYellow": "#FFD59A",
+    "brightBlue": "#D2B2FF",
+    "brightPurple": "#FF9AD8",
+    "brightCyan": "#A4F0FF",
+    "brightWhite": "#ffffff"
+}

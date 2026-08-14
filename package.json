@@ -1,24 +1,33 @@
 {
     "name": "herzha-theme",
-    "version": "0.0.1",
-    "description": "Herzha theme - Dev environment",
-    "main": "core/index.js",
+    "version": "0.1.0",
+    "description": "Herzha Theme",
+    "private": true,
+    "author": {
+        "name": "Madhanmaaz",
+        "url": "https://madhanmaaz.netlify.app"
+    },
+    "homepage": "https://github.com/madhanmaaz/herzha-theme#readme",
+    "license": "MIT",
+    "type": "commonjs",
+    "main": "scripts/build-herzha.js",
     "scripts": {
         "dev": "node . --dev",
         "build": "node .",
         "view": "node . --view",
         "cleanup": "node . --cleanup",
-        "full": "nodemon --exec \"npm run build\" --ext .js -i .git packages"
+        "update-version": "node ./scripts/update-version.js"
     },
-    "keywords": [],
-    "author": {
-        "name": "madhanmaaz",
-        "url": "https://madhanmaaz.netlify.app"
-    },
-    "license": "MIT",
-    "type": "commonjs",
     "devDependencies": {
         "chokidar": "^5.0.0",
         "colord": "^2.9.3"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/madhanmaaz/herzha-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/madhanmaaz/herzha-theme/issues"
+    },
+    "keywords": []
 }

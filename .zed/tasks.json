@@ -8,7 +8,7 @@
         "command": "code",
         "args": [
             "--disable-workspace-trust",
-            "$ZED_WORKTREE_ROOT/test/syntax",
+            "$ZED_WORKTREE_ROOT",
             "--extensionDevelopmentPath=$ZED_WORKTREE_ROOT/packages/vscode",
         ],
     },

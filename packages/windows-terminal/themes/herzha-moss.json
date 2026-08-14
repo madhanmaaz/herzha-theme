@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Moss",
+    "background": "#0B0F0E",
+    "foreground": "#CFE8DF",
+    "cursorColor": "#7FD4A4",
+    "selectionBackground": "#2c4a39",
+    "black": "#0B0F0E",
+    "red": "#E57373",
+    "green": "#6ADFA0",
+    "yellow": "#EBCB8B",
+    "blue": "#6BBCEB",
+    "purple": "#7FD4A4",
+    "cyan": "#A7E36D",
+    "white": "#CFE8DF",
+    "brightBlack": "#5d7f76",
+    "brightRed": "#F28B8B",
+    "brightGreen": "#87EDB6",
+    "brightYellow": "#F2D9A2",
+    "brightBlue": "#7CC9BA",
+    "brightPurple": "#9BE3BB",
+    "brightCyan": "#86CCF2",
+    "brightWhite": "#ffffff"
+}

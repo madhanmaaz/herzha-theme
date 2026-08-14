@@ -2,8 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+
 <key>name</key>
 <string>Herzha Dark</string>
+
 <key>settings</key>
 <array>
 	<dict>
@@ -11,7 +13,7 @@
 		<dict>
 			<key>background</key>
 			<string>
-			    #16161b
+		        #16161b
             </string>
 
 			<key>caret</key>
@@ -86,10 +88,10 @@
     </dict>
 
     <dict>
-    	<key>name</key>
-    	<string>Comment</string>
-    	<key>scope</key>
-    	<string>
+       	<key>name</key>
+       	<string>Comment</string>
+       	<key>scope</key>
+       	<string>
   		    comment,
             comment.block,
             comment.block.documentation,
@@ -100,14 +102,14 @@
             comment.line.percentage,
             punctuation.definition.comment,
             string.quoted.multiline.graphql
-    	</string>
-    	<key>settings</key>
-    	<dict>
-    		<key>foreground</key>
-    		<string>#54556b</string>
-    		<key>fontStyle</key>
-    		<string></string>
-    	</dict>
+       	</string>
+       	<key>settings</key>
+       	<dict>
+      		<key>foreground</key>
+      		<string>#54556b</string>
+      		<key>fontStyle</key>
+      		<string></string>
+       	</dict>
     </dict>
 
     <dict>
@@ -745,7 +747,6 @@
             <string>#03BDE5</string>
         </dict>
     </dict>
-
 </array>
 
 <key>uuid</key>

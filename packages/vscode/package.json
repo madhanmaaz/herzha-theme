@@ -2,7 +2,7 @@
     "name": "vscode-herzha-theme",
     "displayName": "Herzha Theme",
     "description": "Herzha themes for vscode.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "madhanmaaz",
     "icon": "assets/logo.webp",
     "scripts": {
@@ -33,9 +33,24 @@
     "contributes": {
         "themes": [
             {
+                "label": "Herzha Arcade",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-arcade.json"
+            },
+            {
+                "label": "Herzha Azure",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-azure.json"
+            },
+            {
                 "label": "Herzha Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/herzha-dark.json"
+            },
+            {
+                "label": "Herzha Ember",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-ember.json"
             },
             {
                 "label": "Herzha Flux",
@@ -43,9 +58,64 @@
                 "path": "./themes/herzha-flux.json"
             },
             {
+                "label": "Herzha Iron",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-iron.json"
+            },
+            {
+                "label": "Herzha Lush",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-lush.json"
+            },
+            {
+                "label": "Herzha Moss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-moss.json"
+            },
+            {
+                "label": "Herzha Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-neon.json"
+            },
+            {
+                "label": "Herzha Punk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-punk.json"
+            },
+            {
+                "label": "Herzha Sakura",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-sakura.json"
+            },
+            {
+                "label": "Herzha Static",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-static.json"
+            },
+            {
+                "label": "Herzha Toxic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-toxic.json"
+            },
+            {
+                "label": "Herzha Twilight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-twilight.json"
+            },
+            {
+                "label": "Herzha Ultra",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-ultra.json"
+            },
+            {
                 "label": "Herzha Vanta",
                 "uiTheme": "vs-dark",
                 "path": "./themes/herzha-vanta.json"
+            },
+            {
+                "label": "Herzha Void",
+                "uiTheme": "vs-dark",
+                "path": "./themes/herzha-void.json"
             }
         ]
     }

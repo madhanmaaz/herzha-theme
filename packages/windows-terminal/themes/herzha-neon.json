@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Neon",
+    "background": "#05070D",
+    "foreground": "#E4FFFF",
+    "cursorColor": "#00F5FF",
+    "selectionBackground": "#005659",
+    "black": "#05070D",
+    "red": "#FF2868",
+    "green": "#00FF85",
+    "yellow": "#FFD600",
+    "blue": "#00BFFF",
+    "purple": "#00F5FF",
+    "cyan": "#00FF9C",
+    "white": "#E4FFFF",
+    "brightBlack": "#3b5299",
+    "brightRed": "#FF5C8A",
+    "brightGreen": "#5CFFA9",
+    "brightYellow": "#FFE866",
+    "brightBlue": "#A06CFF",
+    "brightPurple": "#5CFAFF",
+    "brightCyan": "#5CDAFF",
+    "brightWhite": "#ffffff"
+}

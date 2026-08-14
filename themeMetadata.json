@@ -1,17 +1,87 @@
 {
+    "herzha-arcade": {
+        "name": "Herzha Arcade",
+        "appearance": "dark",
+        "filename": "herzha-arcade"
+    },
+    "herzha-azure": {
+        "name": "Herzha Azure",
+        "appearance": "dark",
+        "filename": "herzha-azure"
+    },
     "herzha-dark": {
         "name": "Herzha Dark",
         "appearance": "dark",
         "filename": "herzha-dark"
+    },
+    "herzha-ember": {
+        "name": "Herzha Ember",
+        "appearance": "dark",
+        "filename": "herzha-ember"
     },
     "herzha-flux": {
         "name": "Herzha Flux",
         "appearance": "dark",
         "filename": "herzha-flux"
     },
+    "herzha-iron": {
+        "name": "Herzha Iron",
+        "appearance": "dark",
+        "filename": "herzha-iron"
+    },
+    "herzha-lush": {
+        "name": "Herzha Lush",
+        "appearance": "dark",
+        "filename": "herzha-lush"
+    },
+    "herzha-moss": {
+        "name": "Herzha Moss",
+        "appearance": "dark",
+        "filename": "herzha-moss"
+    },
+    "herzha-neon": {
+        "name": "Herzha Neon",
+        "appearance": "dark",
+        "filename": "herzha-neon"
+    },
+    "herzha-punk": {
+        "name": "Herzha Punk",
+        "appearance": "dark",
+        "filename": "herzha-punk"
+    },
+    "herzha-sakura": {
+        "name": "Herzha Sakura",
+        "appearance": "dark",
+        "filename": "herzha-sakura"
+    },
+    "herzha-static": {
+        "name": "Herzha Static",
+        "appearance": "dark",
+        "filename": "herzha-static"
+    },
+    "herzha-toxic": {
+        "name": "Herzha Toxic",
+        "appearance": "dark",
+        "filename": "herzha-toxic"
+    },
+    "herzha-twilight": {
+        "name": "Herzha Twilight",
+        "appearance": "dark",
+        "filename": "herzha-twilight"
+    },
+    "herzha-ultra": {
+        "name": "Herzha Ultra",
+        "appearance": "dark",
+        "filename": "herzha-ultra"
+    },
     "herzha-vanta": {
         "name": "Herzha Vanta",
         "appearance": "dark",
         "filename": "herzha-vanta"
+    },
+    "herzha-void": {
+        "name": "Herzha Void",
+        "appearance": "dark",
+        "filename": "herzha-void"
     }
 }

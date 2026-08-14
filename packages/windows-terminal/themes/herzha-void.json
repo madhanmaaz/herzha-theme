@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Void",
+    "background": "#090A0F",
+    "foreground": "#BBC3F0",
+    "cursorColor": "#9D7DFF",
+    "selectionBackground": "#372c59",
+    "black": "#090A0F",
+    "red": "#FB7F9C",
+    "green": "#73D3AE",
+    "yellow": "#F1C37D",
+    "blue": "#7ACBFF",
+    "purple": "#9D7DFF",
+    "cyan": "#55D0E0",
+    "white": "#BBC3F0",
+    "brightBlack": "#525b88",
+    "brightRed": "#FF9BB2",
+    "brightGreen": "#8AE1C3",
+    "brightYellow": "#F6D196",
+    "brightBlue": "#879CFF",
+    "brightPurple": "#B69BFF",
+    "brightCyan": "#8FD7FF",
+    "brightWhite": "#ffffff"
+}

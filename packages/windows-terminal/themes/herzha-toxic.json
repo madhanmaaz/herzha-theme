@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Toxic",
+    "background": "#050900",
+    "foreground": "#F0FFD9",
+    "cursorColor": "#A8FF00",
+    "selectionBackground": "#3b5900",
+    "black": "#050900",
+    "red": "#FF315B",
+    "green": "#5CFF00",
+    "yellow": "#EFFF00",
+    "blue": "#00E5FF",
+    "purple": "#A8FF00",
+    "cyan": "#00FF9D",
+    "white": "#F0FFD9",
+    "brightBlack": "#71cb00",
+    "brightRed": "#FF6684",
+    "brightGreen": "#9AFF66",
+    "brightYellow": "#F6FF66",
+    "brightBlue": "#7DFF5C",
+    "brightPurple": "#CCFF5C",
+    "brightCyan": "#5CEFFF",
+    "brightWhite": "#ffffff"
+}

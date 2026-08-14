@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Static",
+    "background": "#070C10",
+    "foreground": "#C7F4FF",
+    "cursorColor": "#5EEBFF",
+    "selectionBackground": "#215259",
+    "black": "#070C10",
+    "red": "#FF5C7C",
+    "green": "#6DEDB7",
+    "yellow": "#FFD166",
+    "blue": "#72D8FF",
+    "purple": "#5EEBFF",
+    "cyan": "#00FFD1",
+    "white": "#C7F4FF",
+    "brightBlack": "#427197",
+    "brightRed": "#FF8098",
+    "brightGreen": "#88F5CB",
+    "brightYellow": "#FFE08A",
+    "brightBlue": "#7DA2FA",
+    "brightPurple": "#85F2FF",
+    "brightCyan": "#8EE2FF",
+    "brightWhite": "#ffffff"
+}

@@ -1,0 +1,15 @@
+const {
+    muted,
+    darken,
+    withAlpha,
+    lighten,
+    blend,
+    generateContrastForeground,
+} = require("../colorUtils");
+
+/** @type {import('../@types/resolver').ResolveThemeFn} */
+exports.resolveTheme = (palette, { getColorByAppearance }) => {
+    const theme = { ...palette };
+
+    return theme;
+};

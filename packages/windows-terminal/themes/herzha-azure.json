@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Azure",
+    "background": "#0B111B",
+    "foreground": "#E0F0FF",
+    "cursorColor": "#4A90FF",
+    "selectionBackground": "#1a3259",
+    "black": "#0B111B",
+    "red": "#F54966",
+    "green": "#5ED1A1",
+    "yellow": "#F5BC49",
+    "blue": "#5DA6FF",
+    "purple": "#4A90FF",
+    "cyan": "#5486ff",
+    "white": "#E0F0FF",
+    "brightBlack": "#4368a5",
+    "brightRed": "#FA7087",
+    "brightGreen": "#7EE6BA",
+    "brightYellow": "#FACC70",
+    "brightBlue": "#5C9AED",
+    "brightPurple": "#7AB4FF",
+    "brightCyan": "#85C1FF",
+    "brightWhite": "#ffffff"
+}

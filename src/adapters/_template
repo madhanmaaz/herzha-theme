@@ -1,0 +1,12 @@
+/** @type {import('../@types/adapter').AdapterModule} */
+module.exports = {
+    ext: "json",
+
+    plugin({ isDev, content, themeName, filename }) {
+
+    },
+
+    component: (theme) => ({
+
+    }),
+};

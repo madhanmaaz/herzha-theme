@@ -1,0 +1,28 @@
+/** @type {import('../@types/palette').PaletteModule} */
+module.exports = {
+    palette: {
+        name: "Herzha Ember",
+        appearance: "dark",
+        author: "Madhanmaaz <madhanmaaz@gmail.com>",
+        primary: "#FF8F6B",
+        primaryAlt: "#FFA88A",
+        secondary: "#E66A4E",
+        secondaryAlt: "#F0856C",
+        accent: "#F2B705",
+        accentAlt: "#FFD166",
+        neutral: "#403633",
+        neutralAlt: "#5A4A45",
+        info: "#D9A066",
+        infoAlt: "#E8BB8C",
+        success: "#A3C15A",
+        successAlt: "#BFDA84",
+        warning: "#F4C430",
+        warningAlt: "#FFD75E",
+        danger: "#FF6B6B",
+        dangerAlt: "#FF8F8F",
+        foreground: "#E6DCD8",
+        foregroundAlt: "#B8AFAA",
+        background: "#0E0B0A",
+        backgroundAlt: "#0B0807",
+    },
+};

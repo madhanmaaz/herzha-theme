@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Arcade",
+    "background": "#06050D",
+    "foreground": "#F5F4FF",
+    "cursorColor": "#00F0FF",
+    "selectionBackground": "#005459",
+    "black": "#06050D",
+    "red": "#FF245F",
+    "green": "#00FF85",
+    "yellow": "#FFD000",
+    "blue": "#00C8FF",
+    "purple": "#00F0FF",
+    "cyan": "#A8FF00",
+    "white": "#F5F4FF",
+    "brightBlack": "#473b99",
+    "brightRed": "#FF6688",
+    "brightGreen": "#5CFFA8",
+    "brightYellow": "#FFE866",
+    "brightBlue": "#FF6DC5",
+    "brightPurple": "#5CFAFF",
+    "brightCyan": "#5CDFFF",
+    "brightWhite": "#ffffff"
+}

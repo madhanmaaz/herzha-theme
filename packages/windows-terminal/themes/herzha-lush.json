@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Lush",
+    "background": "#070D0A",
+    "foreground": "#CDEEDB",
+    "cursorColor": "#74FFB0",
+    "selectionBackground": "#29593e",
+    "black": "#070D0A",
+    "red": "#5DDBA4",
+    "green": "#80FFA4",
+    "yellow": "#BAFF8B",
+    "blue": "#8FFFCF",
+    "purple": "#74FFB0",
+    "cyan": "#38FFD3",
+    "white": "#CDEEDB",
+    "brightBlack": "#4b8b6b",
+    "brightRed": "#7EE9BA",
+    "brightGreen": "#9FFFBB",
+    "brightYellow": "#CFFFA8",
+    "brightBlue": "#85F3B8",
+    "brightPurple": "#97FFC4",
+    "brightCyan": "#A8FFDD",
+    "brightWhite": "#ffffff"
+}

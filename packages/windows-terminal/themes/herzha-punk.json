@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Punk",
+    "background": "#07050D",
+    "foreground": "#E8F9FF",
+    "cursorColor": "#00F0FF",
+    "selectionBackground": "#005459",
+    "black": "#07050D",
+    "red": "#FF315F",
+    "green": "#00F5A0",
+    "yellow": "#FFD000",
+    "blue": "#00C8FF",
+    "purple": "#00F0FF",
+    "cyan": "#D7FF00",
+    "white": "#E8F9FF",
+    "brightBlack": "#523b99",
+    "brightRed": "#FF6688",
+    "brightGreen": "#5CFFC0",
+    "brightYellow": "#FFE866",
+    "brightBlue": "#FF68C2",
+    "brightPurple": "#5CFAFF",
+    "brightCyan": "#5CE0FF",
+    "brightWhite": "#ffffff"
+}

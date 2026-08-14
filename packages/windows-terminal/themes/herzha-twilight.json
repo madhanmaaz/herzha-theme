@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Twilight",
+    "background": "#120F18",
+    "foreground": "#E0D9F5",
+    "cursorColor": "#B59DFF",
+    "selectionBackground": "#3f3759",
+    "black": "#120F18",
+    "red": "#C25C82",
+    "green": "#6FA89A",
+    "yellow": "#D4A06A",
+    "blue": "#B3A5E6",
+    "purple": "#B59DFF",
+    "cyan": "#A88EF0",
+    "white": "#E0D9F5",
+    "brightBlack": "#6b5a8f",
+    "brightRed": "#D883A0",
+    "brightGreen": "#8FC2B4",
+    "brightYellow": "#E3BD8F",
+    "brightBlue": "#B1A0E3",
+    "brightPurple": "#CBB8FF",
+    "brightCyan": "#C6B9F0",
+    "brightWhite": "#ffffff"
+}

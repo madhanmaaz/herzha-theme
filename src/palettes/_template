@@ -1,0 +1,8 @@
+/** @type {import('../@types/palette').PaletteModule} */
+module.exports = {
+    palette: {
+        name: "Herzha ",
+        appearance: "dark",
+        author: "Madhanmaaz <madhanmaaz@gmail.com>",
+    },
+};

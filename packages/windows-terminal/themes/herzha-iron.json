@@ -1,0 +1,23 @@
+{
+    "name": "Herzha Iron",
+    "background": "#0B0C0E",
+    "foreground": "#D0D4DD",
+    "cursorColor": "#8A8FFF",
+    "selectionBackground": "#303259",
+    "black": "#0B0C0E",
+    "red": "#C77A7A",
+    "green": "#7FBFA0",
+    "yellow": "#C9B26D",
+    "blue": "#7AA2C7",
+    "purple": "#8A8FFF",
+    "cyan": "#5FB3C9",
+    "white": "#D0D4DD",
+    "brightBlack": "#60697b",
+    "brightRed": "#D99696",
+    "brightGreen": "#98D4B6",
+    "brightYellow": "#D8C481",
+    "brightBlue": "#8894C2",
+    "brightPurple": "#A3A7FF",
+    "brightCyan": "#92B7D9",
+    "brightWhite": "#ffffff"
+}
