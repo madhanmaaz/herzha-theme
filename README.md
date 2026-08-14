@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/banner.png" width="100%" alt="Herzha Theme Banner" />
+  <img src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/banner.webp" width="100%" alt="Herzha Theme Banner" />
 </p>
 
 <p align="center">
