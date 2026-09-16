@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/images/sublime-text.png" />
+  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/screenshots/sublime-text.png" />
 </p>

@@ -60,6 +60,21 @@ function generateContrastForeground(background = "#ffffff", minContrast = 10) {
     return fg.toHex();
 }
 
+function hexToRGB(hex, withWrapper = false) {
+    const c = colord(hex);
+
+    if (!c.isValid()) {
+        throw new Error(`hexToRGB: invalid color "${hex}"`);
+    }
+
+    if (withWrapper) {
+        return c.toRgbString();
+    }
+
+    const { r, g, b } = c.toRgb();
+    return `${r},${g},${b}`;
+}
+
 module.exports = {
     withAlpha,
     lighten,
@@ -68,4 +83,5 @@ module.exports = {
     blend,
     adaptiveBackground,
     generateContrastForeground,
+    hexToRGB,
 };

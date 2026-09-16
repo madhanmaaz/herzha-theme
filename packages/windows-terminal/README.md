@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/images/windows-terminal.png" />
+  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/screenshots/windows-terminal.png" />
 </p>

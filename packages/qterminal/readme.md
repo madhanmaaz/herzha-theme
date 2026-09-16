@@ -1,5 +1,5 @@
 <h1 align="center">
-    Herzha Theme for Zed
+    Herzha Theme for QTerminal
 </h1>
 <p align="center">
     <a href="https://github.com/madhanmaaz/herzha-theme">
@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/screenshots/zed.png" />
+  <img alt="preview" src="https://raw.githubusercontent.com/madhanmaaz/herzha-theme/master/assets/screenshots/qterminal.png" />
 </p>

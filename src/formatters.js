@@ -9,6 +9,7 @@ function json(content) {
 }
 
 module.exports = {
+    colorscheme: justString,
     tmTheme: justString,
     json,
 };
